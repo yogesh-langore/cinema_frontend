@@ -15,7 +15,11 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
    - ⚡ Fast loading using cached network images
    - 📦 Persistent local storage with Hive
    - 🎭 Actor and cast details
-   - 💬 User feedback submission system  
+   - ➕ Create new movies  
+   - ✏️ Edit existing movie details  
+   - 🗑️ Delete movies
+   - 💬 User feedback submission system
+    
 
 ---
 
@@ -32,3 +36,13 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
 ## 🔗 Backend API
    - This app requires a FastAPI + MongoDB backend.
    - Make sure your backend is running and update the API base URL in the frontend before starting.
+
+
+## 📷 Screenshots
+
+### Home Screen
+![Home Screen](<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/7c0d0233-7006-4eb4-b13d-3c5ee27dee2c" />)
+
+### Movie Detail Screen
+![Detail Screen](screenshots/detail_screen.png)
+
