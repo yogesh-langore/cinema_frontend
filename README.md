@@ -37,15 +37,30 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
    - This app requires a FastAPI + MongoDB backend.
    - Make sure your backend is running and update the API base URL in the frontend before starting.
 
+---
 
 ## 📸 Screenshots
 
-| Home Screen | Movie Details | Favorites |
-|-------------|----------------|------------|
-| ![Home](![HomePage](<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/49b775d1-7833-41f1-a7e0-da0b8cfbca42" />
-)
-)
-) | ![Details](![MovieDetail](https://github.com/user-attachments/assets/81b29767-d3dc-419b-b307-c48b423f0bb6)
-) | ![Favorites](![FavoriteScreen](https://github.com/user-attachments/assets/8d198aab-cc3f-432d-94f3-4aa75b9973b2)
-) |
+<table>
+  <tr>
+    <th>Home Screen</th>
+    <th>Detail Screen 1</th>
+    <th>Detail Screen 2</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fd6c08d6-99f1-4ad3-bd25-5e563bcc9d56" width="450" height="900" /></td>
+    <td><img src="https://github.com/user-attachments/assets/cd672f7b-c2f6-4dff-9c0e-cf1b9843febe" width="450" height="900" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e78d0ee2-2366-49a6-b4dd-c852a757d4dc" width="450" height="900" /></td>
+  </tr>
+    <tr>
+    <th>Favorite Screen</th>
+    <th>Search Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2ccd7f37-b6da-4786-b12c-1f9f4416f30a" width="450" height="900" /></td>
+    <td><img src="https://github.com/user-attachments/assets/72f74a4a-1d68-4224-9856-214804c4b676" width="450" height="900" /></td>
+  </tr>
+</table>
+
+---
 
