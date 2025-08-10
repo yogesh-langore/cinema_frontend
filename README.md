@@ -42,7 +42,8 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
 
 | Home Screen | Movie Details | Favorites |
 |-------------|----------------|------------|
-| ![Home](![HomePage](https://github.com/user-attachments/assets/f6e69447-bc15-4b38-b93e-f9fb67b5307f)
+| ![Home](![HomePage](![download](https://github.com/user-attachments/assets/46bab5fb-f848-4243-a9df-98c98e48c531)
+)
 ) | ![Details](![MovieDetail](https://github.com/user-attachments/assets/81b29767-d3dc-419b-b307-c48b423f0bb6)
 ) | ![Favorites](![FavoriteScreen](https://github.com/user-attachments/assets/8d198aab-cc3f-432d-94f3-4aa75b9973b2)
 ) |
