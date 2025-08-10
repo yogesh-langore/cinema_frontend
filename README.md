@@ -9,7 +9,7 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
 
    - 🎬 Browse now playing, popular, and upcoming movies
    - 🔍 Search for movies with live suggestions
-   - 📄 View detailed movie information with genres, ratings, release dates, and Imdb rating
+   - 📄 View detailed movie information with genres, ratings, release dates, and IMDb rating
    - ✏️ Edit movie details inline (no separate edit screen)
    - ❤️ Add or remove movies from favorites
    - ⚡ Fast loading using cached network images
@@ -42,7 +42,8 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
 
 | Home Screen | Movie Details | Favorites |
 |-------------|----------------|------------|
-| ![Home](![HomePage](![download](https://github.com/user-attachments/assets/46bab5fb-f848-4243-a9df-98c98e48c531)
+| ![Home](![HomePage](<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/49b775d1-7833-41f1-a7e0-da0b8cfbca42" />
+)
 )
 ) | ![Details](![MovieDetail](https://github.com/user-attachments/assets/81b29767-d3dc-419b-b307-c48b423f0bb6)
 ) | ![Favorites](![FavoriteScreen](https://github.com/user-attachments/assets/8d198aab-cc3f-432d-94f3-4aa75b9973b2)
