@@ -1,16 +1,28 @@
 # flutter_cinema
 
-A new Flutter project.
+📌 Description:
+      flutter_cinema is a Flutter-based movie browsing application that integrates with a FastAPI + MongoDB backend.
+      It allows users to explore movies, search titles, view details, and manage favorites — all with a smooth, modern UI.
 
-## Getting Started
+✨ Features
+    🎬 Browse now playing, popular, and upcoming movies
+    🔍 Search for movies with live suggestions
+    📄 View detailed movie information with genres, ratings, and release dates
+    ✏️ Edit movie details inline (no separate edit screen)
+    ❤️ Add or remove movies from favorites
+    🌗 Light/Dark theme toggle
+    ⚡ Fast loading using cached images
+    📦 Persistent local storage with Hive
+    🎭 Actor and cast details
 
-This project is a starting point for a Flutter application.
+🛠 Tech Stack
+    Framework: Flutter
+    Language: Dart
+    State Management: Riverpod
+    Networking: Dio
+    Local Storage: Hive
+    UI Enhancements: CachedNetworkImage, Google Fonts, Carousel Slider, Lottie
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔗 Backend API
+    This app requires a FastAPI + MongoDB backend.
+    Make sure your backend is running and update the API base URL in the frontend before starting.
