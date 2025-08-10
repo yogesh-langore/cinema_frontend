@@ -38,11 +38,12 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
    - Make sure your backend is running and update the API base URL in the frontend before starting.
 
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-### Home Screen
-![Home Screen](<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/7c0d0233-7006-4eb4-b13d-3c5ee27dee2c" />)
-
-### Movie Detail Screen
-![Detail Screen](screenshots/detail_screen.png)
+| Home Screen | Movie Details | Favorites |
+|-------------|----------------|------------|
+| ![Home](![HomePage](https://github.com/user-attachments/assets/f6e69447-bc15-4b38-b93e-f9fb67b5307f)
+) | ![Details](![MovieDetail](https://github.com/user-attachments/assets/81b29767-d3dc-419b-b307-c48b423f0bb6)
+) | ![Favorites](![FavoriteScreen](https://github.com/user-attachments/assets/8d198aab-cc3f-432d-94f3-4aa75b9973b2)
+) |
 
