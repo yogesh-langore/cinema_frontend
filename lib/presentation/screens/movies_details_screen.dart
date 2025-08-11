@@ -541,7 +541,8 @@ class _MovieDetailsScreenState extends ConsumerState<MovieDetailsScreen> {
                                             color: Colors.grey[400], size: 20),
                                         const SizedBox(height: 6),
                                         Text(
-                                          movie.releaseDate?.toString() ?? '---',
+                                          movie.releaseDate?.toString() ??
+                                              '---',
                                           style: const TextStyle(
                                               color: Colors.white,
                                               fontSize: 14,
