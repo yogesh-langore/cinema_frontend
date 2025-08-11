@@ -58,7 +58,7 @@ flutter_cinema is a Flutter-based movie browsing application that integrates wit
   </tr>
   <tr>
     <td><img src="https://github.com/yogesh-langore/cinema_frontend/blob/main/screenshots/FavScreen.jpg?raw=true" width="450" height="900" /></td>
-    <td><img src="https://github.com/user-attachments/assets/72f74a4a-1d68-4224-9856-214804c4b676" width="450" height="900" /></td>
+    <td><img src="https://github.com/yogesh-langore/cinema_frontend/blob/main/screenshots/SearchScreen.jpg?raw=true" width="450" height="900" /></td>
   </tr>
 </table>
 
